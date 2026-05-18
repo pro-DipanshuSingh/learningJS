@@ -1,0 +1,12 @@
+<html>
+<head>
+    <title>My Page</title>
+</head>
+<body>
+    <h1>Welcome to My Page</h1>
+    <p>This is a simple paragraph.</p>
+</body>
+<script>
+    console.log("Hello, World!");
+</script>
+</html>
